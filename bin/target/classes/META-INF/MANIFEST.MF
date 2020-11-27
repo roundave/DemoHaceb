@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: leidy.martinez
+Build-Jdk: 14.0.2
+Implementation-Title: test-gigya
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.keyrus.test
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/test-gigya/
+Created-By: Maven Integration for Eclipse
+
